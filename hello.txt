@@ -2,3 +2,5 @@ Hello World!
 Hello Computer World!
 Hello Astral World!
 Hi!
+Hello Computer!
+Hello Laptop!
